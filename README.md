@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # TicketBooking-UI-Flutter
 
-<img src="https://github.com/eswar2001/TicketBooking-UI-Flutter/blob/main/3d9f7805ad085d302aade79eb244ad22.png" height="700px">
+<img src="https://github.com/eswar2001/TicketBooking-UI-Flutter/blob/main/ui.png" height="700px">
